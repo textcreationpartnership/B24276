@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honourable undertaking; or, Five hundred pounds for one shilling. With permission of authority; being a fair adventure to all persons, and a considerable return of profit to the fortunate.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24276</idno><idno type="EEBO-CITATION">99885705</idno>
+  <idno type="VID">201631</idno>
+  <idno type="EEBO-PROQUEST">2240882098</idno>
+  
+            <idno type="STC">Wing H2601aA</idno>
+            <idno type="STC">Thomason E.1047[6]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[74]</idno>
+            <idno type="STC">ESTC R224848</idno>
+            <idno type="PROQUEST">ocm99885705</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885705e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201631)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:3[77])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honourable undertaking; or, Five hundred pounds for one shilling. With permission of authority; being a fair adventure to all persons, and a considerable return of profit to the fortunate.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lotteries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201631:1"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of a cube bounded by bookends</figDesc>
+               </figure>
+               <hi>The</hi> Honourable Undertaking; <hi>Or, Five Hun<g ref="char:EOLhyphen"/>dred Pounds for One Shilling.</hi> With the Permission of Authority; being a Fair ADVENTƲRE to all Per<g ref="char:EOLhyphen"/>sons, and a considerable Return of Profit to the Fortunate.</head>
+            <p>THere will be 90000 Tickets Deliver'd out at One Shilling <hi>per</hi> Ticket, against One Thousand and Nineteen Benefited Tickets, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Benefits.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ll.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>ll.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 at</cell>
+                     <cell>500</cell>
+                     <cell> </cell>
+                     <cell>500</cell>
+                  </row>
+                  <row>
+                     <cell>2 at</cell>
+                     <cell>200</cell>
+                     <cell>each</cell>
+                     <cell>400</cell>
+                  </row>
+                  <row>
+                     <cell>2 at</cell>
+                     <cell>100</cell>
+                     <cell>each</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>4 at</cell>
+                     <cell>50</cell>
+                     <cell>each</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>10 at</cell>
+                     <cell>20</cell>
+                     <cell>each</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>20 at</cell>
+                     <cell>10</cell>
+                     <cell>each</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>40 at</cell>
+                     <cell>5</cell>
+                     <cell>each</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>80 at</cell>
+                     <cell>3</cell>
+                     <cell>each</cell>
+                     <cell>240</cell>
+                  </row>
+                  <row>
+                     <cell>860 at</cell>
+                     <cell>1</cell>
+                     <cell>each</cell>
+                     <cell>860</cell>
+                  </row>
+                  <row>
+                     <cell role="total" cols="2">1019 <hi>Benefits.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell role="total">3000 <hi>ll.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>It will be Drawn most Fairly, in a Method altogether New, and Uncommon, and much <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore Demonstrable to the Adventurers, than any hitherto made use of, which will be in the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>orm of two Cubes of an Equal Bigness: VVhich Figure the Undertaker hath pitched upon, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r the better Mingling of the Billets, which will be thereby more disorderly and confused<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Mixed by one turn of the Cube, which Swings upon two Poles, than can be by any other <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ethod whatsoever: And to prevent the least Suspicion of Fraud, the Undertaker designs <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Cubes to be Built with Glass, by which means the Trustees and all other Persons, who <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>all be present at the Drawing, may see the Billets rowl about, without any thing to im<g ref="char:EOLhyphen"/>pede or hinder their Mingling. This, upon Enquiry, and Examination, will be so demon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>trable, that the meanest Capacities cannot but comprehend. And for the Publick Satisfa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tion of all the Adventurers, this Adventure shall begin to be Drawing on <hi>New-Years-Day</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ext, or sooner, if full: And in the mean time, the Adventurers, or any other Persons, may have the freedom of viewing the Models of these Engines, at Mr. <hi>Conly</hi>'s, at the <hi>Queens-Head</hi> Tavern, by <hi>Temple-Bar;</hi> and at the Free School in St. <hi>Mary-Ax.</hi>
+            </p>
+            <p>The Order of Drawing, will be in the usual manner, in the Presence of Trustees; which will be performed with such Exactness, as shall redound to the Satisfaction of the Adventu<g ref="char:EOLhyphen"/>rers, and to the Reputation of the Undertakers.</p>
+            <p>The PRIZES shall all be Printed, immediately after Drawing; and paid on Sight, (after Comparison and Examination,) by the several under-mentioned Goldsmiths and Cashiers, a Fortnight after Drawing, without any Rebatement whatsoever.</p>
+            <p>The Honourable Persons, who have been pleased to promise to be present as Trustees, to see this Adventure fairly Drawn, according to the foregoing Proposals and Articles, are,</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir <hi>Francis Windebank</hi> Baronet; Sir <hi>Thom<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Cattler;</hi> and Collonel <hi>Savill.</hi>
+            </p>
+            <div type="part">
+               <pb facs="tcp:201631:2"/>
+               <head>The Names of the Goldsmiths, <hi>&amp;c.</hi> when are Appointed by the Undertaker to be the Cash-keepers of the Adventurers Money, are,</head>
+               <p>Mr. <hi>Tysgo,</hi> Goldsmith, at the <hi>Ship</hi> in <hi>Grace-Church-street.</hi> Mr. <hi>Walgrave,</hi> Goldsmith, at the <hi>Anchor</hi> and <hi>Crown</hi> in <hi>Russel-street, Covent-Garden.</hi> Mr. <hi>Clarke,</hi> Goldsmith, at the <hi>Golden Buck</hi> in <hi>Fleet-street.</hi> Mr. <hi>Amson,</hi> Goldsmith, at the <hi>Ring</hi> in <hi>Fleet-street.</hi> Mr. <hi>Conly,</hi> at the <hi>Queen's-Head</hi> Tavern within <hi>Temple-Bar.</hi>
+               </p>
+               <p>These are the Names and Places of Abode, of all the several Book-keepers and Receivers, who have Authority from the Undertakers to Receive the Adventurers Money.</p>
+               <list>
+                  <item>MR. <hi>Tysor,</hi> Goldsmith, at the <hi>Ship</hi> in <hi>Grace church-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Amson,</hi> Goldsmith, at the <hi>Ring</hi> in <hi>Fleet-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Roberts,</hi> Goldsmith, at the <hi>Golden Ball</hi> in <hi>Newgate-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Green,</hi> Goldsmith, at the <hi>Three Flower-de-Luce</hi> and <hi>Crown</hi> in <hi>Henrietta-street, Covent-Garden.</hi>
+                  </item>
+                  <item>Mr. <hi>Antrobus,</hi> Goldsmith, over against <hi>Hosier-Lane-end, West-Smithfield.</hi>
+                  </item>
+                  <item>Mrs. <hi>Chiven</hi>'s, Goldsmith, at the <hi>Crown</hi> against <hi>Exeter Change</hi> in the <hi>Strand.</hi>
+                  </item>
+                  <item>Mr. <hi>Sheen,</hi> Goldsmith, in <hi>Ball Alley</hi> in <hi>Lombard-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Loe,</hi> Goldsmith, by <hi>Wild house,</hi> in <hi>Wild-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Conley</hi> at the <hi>Queens-head</hi> Tavern within <hi>Temple-Bar.</hi>
+                  </item>
+                  <item>Mr. <hi>E<gap reason="illegible" resp="#keyers" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>,</hi> at the <hi>B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>r Tav<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n</hi> in <hi>High Holborn.</hi>
+                  </item>
+                  <item>Mr. <hi>Rawlison</hi> at the <hi>Mitre</hi> Tavern in <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nchurch-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Euet,</hi> at the <hi>Green Dragon</hi> in St. <hi>Paul</hi>'s Church-yard, Bookseller.</item>
+                  <item>Mr. <hi>Be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k,</hi> Grocer, at the 3 <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ns</hi> in <hi>Flee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Wild,</hi> Bookseller, at <hi>Charing-cross.</hi>
+                  </item>
+                  <item>Mr. <hi>Turner,</hi> Bookseller, at the <hi>Angel</hi> by <hi>Lincolns-Inn</hi> Back-gate.</item>
+                  <item>Mr. <hi>Hatt,</hi> a Hosier, at the <hi>Black-Swan,</hi> in <hi>Fleet-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Parrot,</hi> Sadler, by <hi>Bishops-gate.</hi>
+                  </item>
+                  <item>Mr. <hi>Clarke,</hi> Apothecary, over against St. <hi>Austin</hi>'s Church in <hi>Watling-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Batsen</hi>'s Coffee house in <hi>Cornhill.</hi>
+                  </item>
+                  <item>
+                     <hi>Jonathan</hi>'s Coffee house in <hi>Exchange-All<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y.</hi>
+                  </item>
+                  <item>Mr. <hi>Ayloff,</hi> Tallow-Chandler, in the <hi>Old Baily.</hi>
+                  </item>
+                  <item>Mr. <hi>Fitzer,</hi> Milliner, at the <hi>Harrow,</hi> at the corner of <hi>Chancery<g ref="char:EOLhyphen"/>lane,</hi> in <hi>Fleet-street.</hi>
+                  </item>
+                  <item>Captain <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>arke,</hi> at the <hi>Grey-hound Inn</hi> in the Borough in <hi>Southwark.</hi>
+                  </item>
+                  <item>Widow <hi>Jones,</hi> near St. <hi>Andrew</hi>'s Church, <hi>Holbourn.</hi>
+                  </item>
+                  <item>Mrs. <hi>Smith,</hi> Perfumer, at the <hi>Golden-Heart</hi> in <hi>Christ</hi>'s Church Passage, in <hi>Newgate-street.</hi>
+                  </item>
+                  <item>Mr. <hi>George,</hi> at the <hi>Queens-Head</hi> Tavern at <hi>Bow.</hi>
+                  </item>
+                  <item>Mr. <hi>Thorald,</hi> a Distiller, next Door to the <hi>King</hi>'s <hi>Head</hi> Ale-House in <hi>Duke-street.</hi>
+                  </item>
+                  <item>Mrs. <hi>Child</hi>'s Coffee-House, St. <hi>Paul</hi>'s Church-Yard.</item>
+                  <item>Mr. <hi>Brown</hi>'s Coffee-House, in <hi>Mitre-Court</hi> in <hi>Fleet-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Goble,</hi> at the <hi>Windsor-Castle</hi> in <hi>Shear-lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Fairbrothers</hi> in the <hi>Beef-Hall, Leaden-Hall.</hi>
+                  </item>
+                  <item>Mr. <hi>Weekley,</hi> Tobacconist, at the <hi>George,</hi> near St. <hi>Dunstan</hi>'s Church, in <hi>Fleetstreet.</hi>
+                  </item>
+                  <item>Mrs. <hi>Baker,</hi> at the <hi>Dog Tavern,</hi> by <hi>Newgate.</hi>
+                  </item>
+                  <item>Mr. <hi>Orborn</hi>'s, Stationer, in <hi>Fu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ers-stent.</hi>
+                  </item>
+                  <item>Mrs. <hi>Evans,</hi> at the <hi>Pes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> and <hi>Mortar,</hi> over against the <hi>May-pole</hi> in the <hi>Strand.</hi>
+                  </item>
+                  <item>Mr. <hi>Shank,</hi> at <hi>Nando</hi>'s Coffee-House, within <hi>Temple-Bar.</hi>
+                  </item>
+                  <item>Mr. <hi>Bernard,</hi> at the <hi>King's Head</hi> Tavern in <hi>Islington.</hi>
+                  </item>
+                  <item>Mr. <hi>Smith,</hi> at the <hi>Blue Last</hi> Tavern in <hi>Islington.</hi>
+                  </item>
+                  <item>Mr. <hi>Tant,</hi> Tobacconist, in <hi>Pye-corner,</hi> near <hi>West Smithfield</hi>
+                  </item>
+                  <item>Mr. <hi>Claridge,</hi> Cook, at the <hi>Cross-Keys</hi> in <hi>Fetter-lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Ware,</hi> at the <hi>Haunch of Venison</hi> at the <hi>Bridge-foot.</hi>
+                  </item>
+                  <item>Mr. <hi>Nicholas,</hi> at the <hi>Half-Moon</hi> and <hi>Seven Stars</hi> at <hi>Horse-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<g ref="char:EOLhyphen"/>down Old-Stairs.</hi>
+                  </item>
+                  <item>Mr. <hi>Barret,</hi> at the <hi>Rowling Green</hi> at <hi>Black-heath.</hi>
+                  </item>
+                  <item>Mr. <hi>Giles,</hi> Cane-Shop, at the <hi>Hercules-Pillar</hi>'s Alley-end, <hi>Fleet-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Parsons,</hi> at the <hi>Green-L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ttice,</hi> near St. <hi>George</hi>'s Church.</item>
+                  <item>Mr. <hi>Baker,</hi> Sutler in the <hi>Tower.</hi>
+                  </item>
+                  <item>Mr. <hi>Haveland,</hi> at the <hi>Turk</hi>'s <hi>Head</hi> Coffee-House at <hi>Charing-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ross.</hi>
+                  </item>
+                  <item>Mr. <hi>Bacon,</hi> at the <hi>Ship</hi> Ale-house in <hi>Butcher-Row, Temple-Bar.</hi>
+                  </item>
+                  <item>Mr. <hi>Willson,</hi> at the <hi>Still</hi> in <hi>Petticeas-lane,</hi> near <hi>White Chappel.</hi>
+                  </item>
+                  <item>Mr. <hi>Yates</hi>'s Coffee-House, in the <hi>Paved-Alley</hi> by <hi>Leaden-Hall Beef-Hall.</hi>
+                  </item>
+                  <item>Mr. <hi>Plumber</hi>'s Coffee-House in the same <hi>Alley.</hi>
+                  </item>
+                  <item>Mrs. <hi>Ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ines,</hi> at Dr. <hi>Butler</hi>'s Ale-House in the <hi>Paved-Alley,</hi> near <hi>Leaden-Hall</hi> Beef-Hall.</item>
+                  <item>Mr. <hi>Halfpenny,</hi> at the <hi>Bowling-Green</hi> at <hi>High-gate.</hi>
+                  </item>
+                  <item>Mr <hi>Jon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi> against the <hi>Colchester-Bull,</hi> in <hi>Redriff.</hi>
+                  </item>
+                  <item>Mr. <hi>Graves</hi>'s Coffee House in <hi>Swithing's Alley.</hi>
+                  </item>
+                  <item>Mr <hi>Bigg</hi>'s Coffee-House, against <hi>Great Turn-Stile, Holbourn.</hi>
+                  </item>
+                  <item>Widow <hi>Fullwater</hi>'s Coffee-House, at <hi>Southampton-street</hi> end, <hi>High-Holborn.</hi>
+                  </item>
+                  <item>Mr. <hi>Palmer,</hi> at the <hi>M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>maid</hi> in <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ly-street.</hi>
+                  </item>
+                  <item>Mr. <hi>G<gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> at his Coffee-hou<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>-M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll,</hi> near St. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </item>
+                  <item>Mr. <hi>M<gap reason="illegible" resp="#keyers" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </hi> at <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in <hi>Cha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>-<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>reet Westmi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ster.</hi>
+                  </item>
+                  <item>Mr. <hi>Padlow,</hi> at the <hi>Green Dragon</hi> Ale-house without <hi>Bishops-gate.</hi>
+                  </item>
+                  <item>Mr. <hi>Annesley,</hi> at his Coffee-House in <hi>Ship-Yard,</hi> in <hi>Bartholo<g ref="char:EOLhyphen"/>mew-lane,</hi> behind the <hi>Exchange.</hi>
+                  </item>
+                  <item>Mr. <hi>Pep</hi>'s Coffee-House in <hi>Threadneedle-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Eaton, Tunbridge-Wells, Islington.</hi>
+                  </item>
+                  <item>Mr. <hi>Farr</hi>'s Coffee-House, near <hi>Exeter Change.</hi>
+                  </item>
+                  <item>Mr. <hi>Robinson</hi>'s Coffee-House, in <hi>Berry-street,</hi> near St. <hi>James</hi>'s.</item>
+                  <item>Mr. <hi>Goodman</hi> at the <hi>Sugar-Loaf, Pye-Corner.</hi>
+                  </item>
+                  <item>Mr. <hi>Whalham,</hi> at the <hi>Dolphin</hi> on <hi>Fish-street-hill.</hi>
+                  </item>
+                  <item>Mr. <hi>Soaper</hi>'s Coffee-House in <hi>Carter-Lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Whaley,</hi> at the <hi>Mag-Pye</hi> Ale house without <hi>Bishopsgate.</hi>
+                  </item>
+                  <item>Mr. <hi>Palmer,</hi> at the <hi>King's Head</hi> Ale-House, in <hi>King's-Head-Court</hi> in <hi>Drury-Lane.</hi>
+                  </item>
+                  <item>Mr. <hi>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>dwell,</hi> at the <hi>Angel</hi> in <hi>Aldersgate-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Norris,</hi> at the <hi>Dove</hi> in <hi>Grays-Inn-Lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Rand,</hi> at the <hi>Box Tree</hi> in <hi>Gravel-<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ne, Houndsditch.</hi>
+                  </item>
+                  <item>Mr. <hi>Peregrine,</hi> at the <hi>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ck, Finch-lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Hawkins,</hi> at the <hi>Crown</hi> by the <hi>Gate-House, Westminster.</hi>
+                  </item>
+                  <item>Mr. <hi>Shefeild,</hi> at the <hi>Temple</hi> Coffee-House in <hi>Fleet-street.</hi>
+                  </item>
+                  <item>Mr. <hi>John Greenly,</hi> at the <hi>Bull</hi> in <hi>Devonshire-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Backhouse</hi>'s Coffee-House in <hi>Leaden-Hall,</hi> Mutton-Marke</item>
+                  <item>Mr. <hi>Hunt,</hi> at the <hi>Bull</hi> in <hi>Old-Bedlam.</hi>
+                  </item>
+                  <item>Mr. <hi>Howell,</hi> at the <hi>British</hi> Coffee-House in <hi>Wild-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Hall,</hi> at <hi>John</hi>'s Coffee-House, against the <hi>King</hi>'s-<hi>Bench, Southwark.</hi>
+                  </item>
+                  <item>Mr. <hi>Toovey,</hi> at the <hi>King</hi>'s-<hi>Head</hi>-Inn, <hi>Southwark.</hi>
+                  </item>
+                  <item>Widow <hi>Poland,</hi> over against <hi>Hungerford-Market,</hi> in the <hi>Strand.</hi>
+                  </item>
+                  <item>Mr. <hi>Issington,</hi> at the <hi>Crown</hi> and <hi>Lion,</hi> at <hi>Foul-lane</hi>-end.</item>
+                  <item>Mr. <hi>Man,</hi> at the <hi>White-Swan</hi> in the <hi>Maes, Southwark.</hi>
+                  </item>
+                  <item>Mr. <hi>Merryman,</hi> at the <hi>Hand</hi> in <hi>Barnaby-street,</hi> near St. <hi>Mary-Magdalen</hi>'s Church.</item>
+                  <item>Mr. <hi>Taylor</hi> at the <hi>Angel, Love-lane</hi>-end, near <hi>Cherry-Garden</hi> Stairs.</item>
+                  <item>Widow <hi>Spencely</hi>'s Coffee-House, in <hi>New Wild-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Spencer</hi> at <hi>Stand-up Dick</hi>'s, at <hi>Newington-Butts.</hi>
+                  </item>
+                  <item>Mr. <hi>Billing,</hi> at the <hi>Red-Lion</hi> in St. <hi>Mary Saviour</hi>'s Church-Yard.</item>
+                  <item>Mr. <hi>Benett,</hi> at the <hi>Black-Boy</hi> in <hi>Barnaby street.</hi>
+                  </item>
+                  <item>Mr. <hi>Harrison,</hi> at the <hi>Brewer</hi>'s <hi>Arms,</hi> at the corner of <hi>Stoney-lane, Horse-ly-down.</hi>
+                  </item>
+                  <item>Mr. <hi>Webb,</hi> at the <hi>Crown</hi> Coffee-House at <hi>Duck-lane</hi> end, <hi>Smit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>field.</hi>
+                  </item>
+                  <item>Mr. <hi>Woorlidge,</hi> at the two <hi>Fighting Cocks,</hi> near St. <hi>George</hi>'s <hi>Fields.</hi>
+                  </item>
+                  <item>Mr. <hi>Harper</hi> in St. <hi>George</hi>'s <hi>Fields,</hi> near <hi>Hagly</hi>'s <hi>Restoration Garden.</hi>
+                  </item>
+                  <item>Mr. <hi>Claypoole,</hi> at the <hi>Rotterdam</hi> Coffee House in <hi>Swan-Alley</hi> in <hi>Birching-Lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Stevens,</hi> at the <hi>Black Bell</hi> in <hi>Petticoat-Lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Weston,</hi> at the <hi>Dragon</hi> of <hi>Wantly,</hi> upon <hi>Little Tower-Hill.</hi>
+                  </item>
+                  <item>Widow <hi>Tart</hi>'s Coffee House in <hi>West-Smithfield.</hi>
+                  </item>
+                  <item>Mr. <hi>Moothen,</hi> at his Coffee House, in <hi>Milk-street Market.</hi>
+                  </item>
+                  <item>Mr. <hi>Davis,</hi> at the <hi>Rainbow</hi> Coffee House in <hi>Newgate-street:</hi>
+                  </item>
+                  <item>Mr. <hi>Walton</hi>'s Coffee House, in <hi>Warwick-Lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Renoles,</hi> at <hi>Sam</hi>'s Coffee House in <hi>Ludgate-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Read</hi>'s Coffee House, in <hi>Black-Friars.</hi>
+                  </item>
+                  <item>Mr. <hi>Redman,</hi> at <hi>John</hi>'s Coffee House, <hi>Doctors Commons.</hi>
+                  </item>
+                  <item>Mr. <hi>Parter,</hi> at <hi>Shipton</hi>'s Coffee House, at <hi>Fleet-Bridge.</hi>
+                  </item>
+                  <item>Mr. <hi>Sutton,</hi> at the <hi>White Bear</hi> in <hi>Islington.</hi>
+                  </item>
+                  <item>Mrs. <hi>Mince</hi>'s Coffee House in <hi>Rose</hi> and <hi>Crown Court</hi> in <hi>Fetter-lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Spencer,</hi> at the <hi>Anchor</hi> and <hi>S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ll</hi> in <hi>Shad-Thames.</hi>
+                  </item>
+                  <item>Mr. <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ock</hi> at the <hi>Castle</hi> in Upper <hi>Deptford.</hi>
+                  </item>
+                  <item>Mrs. <hi>Dowse,</hi> at the <hi>Globe</hi> in Lower <hi>Deptford.</hi>
+                  </item>
+                  <item>Mr. <hi>Paine,</hi> at the <hi>Shovel</hi> in St. <hi>Olives-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Morley,</hi> at the <hi>Black Lion</hi> at <hi>Pepper-Alley Gate, Southwark.</hi>
+                  </item>
+                  <item>Mr. <hi>Cogsall,</hi> at the <hi>Queens-Head</hi> in the <hi>Park, Southwark.</hi>
+                  </item>
+                  <item>Mrs. <hi>Alleman,</hi> at the <hi>Cock</hi> and <hi>Hoop</hi> in <hi>Fetter-lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Wray,</hi> at the <hi>Bee-hive</hi> Punch-house in <hi>Leaden-hall, Mutton-Market.</hi>
+                  </item>
+                  <item>Mr. <hi>Griffeth,</hi> Harness-maker in <hi>Monmouth-Court, Hedge-Lane.</hi>
+                  </item>
+                  <item>Mr. <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rank<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r,</hi> at the <hi>Flower-de-Luce,</hi> over against <hi>Burtlet</hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ildings in <hi>Fetter-lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Brow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> at the <hi>Eagl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> and <hi>Child</hi> in <hi>Stock<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>-Market.</hi>
+                  </item>
+                  <item>Mr. <hi>Winch,</hi> at the <hi>George</hi> in Lower <hi>Deptford.</hi>
+                  </item>
+                  <item>Mr. <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ray,</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in <hi>Greenwich.</hi>
+                  </item>
+                  <item>Mr. <hi>Wi<gap reason="illegible" resp="#keyers" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>,</hi> at the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Tavern in <hi>Greenwich.</hi>
+                  </item>
+                  <item>Mr. <hi>Allen,</hi> at the <hi>Red Lion</hi> Tavern in <hi>Ratcliff.</hi>
+                  </item>
+                  <item>Mr. <hi>Sampson,</hi> in <hi>Parsons-street,</hi> near the <hi>Marine S<gap reason="illegible" resp="#keyers" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>re.</hi>
+                  </item>
+                  <item>Mr. <hi>Hill,</hi> at the <hi>Standard</hi> Tavern in the <hi>Mixo<gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>bnam,</hi> at the <hi>City of Bristol</hi> at <hi>Iron-Gate,</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>Catherines.</hi>
+                  </item>
+                  <item>Mrs. <hi>
+                        <gap reason="illegible" resp="#keyers" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ens,</hi> at the <hi>Hand</hi> and <hi>Clove</hi> on <hi>London-B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>dge.</hi>
+                  </item>
+                  <item>Mr. <hi>H<gap reason="illegible" resp="#keyers" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>
+                     </hi> at <hi>St<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tioner</hi>'s Coffee House <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+               </list>
+               <pb facs="tcp:201631:2"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
